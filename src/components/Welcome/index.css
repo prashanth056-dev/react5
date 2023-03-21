@@ -1,0 +1,24 @@
+.mainBg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  height: 100vh;
+  font-family: fantasy;
+}
+.head {
+  color: #f0bb03;
+  font-size: 38px;
+}
+.info {
+  color: white;
+  font-size: 32px;
+}
+.btn {
+  background-color: #ffffff;
+  padding: 8px 15px;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 28px;
+}
